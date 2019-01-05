@@ -1,0 +1,6 @@
+name: Milker
+version: 1.0
+main: com.kirelcodes.milker.Main
+depend: [MiniaturePets]
+commands:
+ milker:
